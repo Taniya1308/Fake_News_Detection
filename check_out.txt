@@ -1,7 +1,0 @@
-﻿Python: 3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]
-scikit-learn: 1.9.0
-nltk: 3.10.3
-pandas: 3.0.5
-numpy: 2.5.1
-matplotlib: 3.11.1
-All checks done.

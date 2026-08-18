@@ -38,3 +38,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Temp / check files
+check_env.py
+check_out.txt
+check_err.txt
