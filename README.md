@@ -1,5 +1,9 @@
 # Fake News Detection (NLP)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fakenewsdetection-4bp3frygkgh3fweaipkafg.streamlit.app/)
+
+🔗 **Live Demo:** [https://fakenewsdetection-4bp3frygkgh3fweaipkafg.streamlit.app/](https://fakenewsdetection-4bp3frygkgh3fweaipkafg.streamlit.app/)
+
 An NLP classification system that detects fake news articles using **TF-IDF** feature extraction and **Logistic Regression**, achieving ~90% accuracy on the Fake and Real News dataset.
 
 ---
